@@ -2,12 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.khoj.app/</id>
     <title>Khoj Blog</title>
-    <updated>2023-05-23T12:00:00.000Z</updated>
+    <updated>2023-05-25T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://news.khoj.app/"/>
     <subtitle>Khoj Blog</subtitle>
     <icon>https://news.khoj.app/img/favicon.ico</icon>
     <rights>Copyright © 2023 Facebook, Inc.</rights>
+    <entry>
+        <title type="html"><![CDATA[test-blog]]></title>
+        <id>https://news.khoj.app/2023/05/25/test-blog</id>
+        <link href="https://news.khoj.app/2023/05/25/test-blog"/>
+        <updated>2023-05-25T00:00:00.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[काबुली चना - खोज द्वारा साप्ताहिक सारांश]]></title>
         <id>https://news.khoj.app/2023-05-23-काबुली-चना-खोज-द्वारा-साप्ताहिक-सारांश</id>
@@ -33,8 +39,8 @@
         <id>https://news.khoj.app/2023-05-09-काबुली-चना-खोज-द्वारा-साप्ताहिक-सारांश</id>
         <link href="https://news.khoj.app/2023-05-09-काबुली-चना-खोज-द्वारा-साप्ताहिक-सारांश"/>
         <updated>2023-05-09T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[- तूर की कीमते घटकर फिर से मजबूती पर आ गयी है]]></summary>
-        <content type="html"><![CDATA[<ul><li>तूर की कीमते घटकर फिर से मजबूती पर आ गयी है</li><li>लेमन 200 रु बढ़कर 8150 प्रति क्विंटल पर पहुंच गयी है साथ ही लोकल तूर में भी 100 रु की मजबूती रही।</li><li>बर्मा से आज मई जून शिपमेंट का $1045~$1050 तक भाव रहा</li><li>इन दिनों मंडियों में हलकी क्वालिटी की आवक हो रही है। मिलर्स को जैसा स्टॉक मिल रहा है वही खरीदना पड रहा है.</li><li>कम भाव पर बिकवाली कमजोर है, पर लेवाली भी सिमित है</li><li>सप्ताहांत नागपुर, अमरावती, अकोला लाइन बारिश पड़ने से आवक काफी कमजोर रही</li><li>तूरदाल में ग्राहकी सामान्य होने के कारण मिलर्स जरुरत अनुसार खरीदी कर रहे है</li><li>कमजोर उत्पादन के कारण तूर का फंडामेंटल मजबूत हैं लेकिन आगे बाजार की दिशा सरकार पर निर्भर करती है</li></ul>]]></content>
+        <summary type="html"><![CDATA[- व्यापार और उद्योग मंत्रालय के माध्यम से मलावी सरकार ने सोयाबीन, मक्का अनाज, मूंगफली, अरहर, सूरजमुखी, तिल के बीज, बीन्स, ज्वार, बाजरा, लोबिया और चावल जैसी फसलों के लिए सभी मौजूदा निर्यात लाइसेंस रद्द कर दिए हैं।]]></summary>
+        <content type="html"><![CDATA[<ul><li>व्यापार और उद्योग मंत्रालय के माध्यम से मलावी सरकार ने सोयाबीन, मक्का अनाज, मूंगफली, अरहर, सूरजमुखी, तिल के बीज, बीन्स, ज्वार, बाजरा, लोबिया और चावल जैसी फसलों के लिए सभी मौजूदा निर्यात लाइसेंस रद्द कर दिए हैं।</li><li>मंत्रालय के अनुसार, सीमा शुल्क नियंत्रित निर्यात गोदामों का उपयोग करके फसलों का निर्यात किया जाएगा और निर्यातकों को नए निर्यात लाइसेंस के लिए फिर से आवेदन करने के लिए कहा गया है </li><li>हालाँकि इससे भारतीय बाजार पर असर नहीं पड़ेगा</li></ul>]]></content>
         <category label="Kabuli Chana" term="Kabuli Chana"/>
         <category label="Weekly Summary" term="Weekly Summary"/>
     </entry>
