@@ -21,7 +21,7 @@ on:
         type: string
 
 jobs:
-  build:
+  publish-news:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
