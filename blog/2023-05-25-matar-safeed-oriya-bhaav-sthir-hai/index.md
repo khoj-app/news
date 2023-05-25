@@ -1,6 +1,6 @@
 ---
 slug: 2023-05-25-matar-safeed-oriya-bhaav-sthir-hai
-title: मटर सफेद : औरैया (उप्र) भाव स्थिर है
+title: मटर सफेद - औरैया (उप्र) भाव स्थिर है
 date: 2023-05-25T17:30:00
 tags: [ White Peas, Rates ]
 --- 
