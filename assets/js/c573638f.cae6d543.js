@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkhoj_blog=self.webpackChunkkhoj_blog||[]).push([[964],{8866:a=>{a.exports=JSON.parse('[{"label":"Kabuli Chana","permalink":"/tags/kabuli-chana","count":1},{"label":"Weekly Summary","permalink":"/tags/weekly-summary","count":1}]')}}]);

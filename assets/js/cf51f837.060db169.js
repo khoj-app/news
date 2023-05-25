@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkkhoj_blog=self.webpackChunkkhoj_blog||[]).push([[66],{6797:e=>{e.exports=JSON.parse('{"label":"Weekly Summary","permalink":"/tags/weekly-summary","allTagsPath":"/tags","count":3}')}}]);
