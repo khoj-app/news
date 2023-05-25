@@ -34,7 +34,7 @@ const config = {
   // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    locales: ['en', 'hi'],
+    locales: ['en'],
   },
 
   presets: [
@@ -53,7 +53,7 @@ const config = {
           blogSidebarCount: 8,
           feedOptions: {
             type: 'all',
-            copyright: `Copyright © ${new Date().getFullYear()} Facebook, Inc.`,
+            copyright: `Copyright © ${new Date().getFullYear()} Khoj - Shah Nanji Nagsi`,
             createFeedItems: async (params) => {
               const {blogPosts, defaultCreateFeedItems, ...rest} = params;
               return defaultCreateFeedItems({
