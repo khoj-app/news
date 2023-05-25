@@ -1,0 +1,65 @@
+name: Publish News
+
+on:
+  workflow_dispatch:
+    inputs:
+      slug:
+        description: 'English Slug for URL. Ex: kabuli-chana-keemat-may-teezi-jaari'
+        required: true
+        type: string
+      title:
+        description: 'Title'
+        required: true
+        type: string
+      content:
+        description: 'Content'
+        required: true
+        type: string
+      tags:
+        description: 'Tags separated by comma'
+        required: true
+        type: string
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Publish news
+        run: |
+          today=$(date '+%Y-%m-%d')
+          time=$(date '+%H:%M:%S')
+          directoryName="$today-$SLUG"
+          
+          cd blog
+          mkdir $directoryName
+          cd $directoryName
+          news="
+          ---
+          slug: $SLUG
+          title: $TITLE
+          date: $(date '+%Y-%m-%dT%H:%M:%S')
+          tags: [$TAGS]
+          ---
+          
+          $CONTENT
+          "
+          echo $news > index.md
+        env:
+          TITLE: ${{ inputs.title }}
+          CONTENT: ${{ inputs.content }}
+          TAGS: ${{ inputs.tags }}
+          SLUG: ${{ inputs.slug }}
+
+      - name: Commit changes
+        run: |
+          git config --global user.email "no-reply@github.com"
+          git config --global user.name "GitHub Actions"
+          git add static/blog.json
+          git commit -m "Update blog.json"
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
