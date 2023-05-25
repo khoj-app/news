@@ -36,13 +36,13 @@ jobs:
           mkdir $directoryName
           cd $directoryName
           news="
-          ---
-          slug: $today-$SLUG
-          title: $TITLE
-          date: $(date '+%Y-%m-%dT%H:%M:%S')
-          tags: [$TAGS]
-          ---
-          
+          ---\n
+          slug: $today-$SLUG\n
+          title: $TITLE\n
+          date: $(date '+%Y-%m-%dT%H:%M:%S')\n
+          tags: [$TAGS]\n
+          ---\n
+          \n
           $CONTENT
           "
           echo $news > index.md
