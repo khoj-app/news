@@ -1,6 +1,8 @@
-# Website
+# Khoj News
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+
+How to publish a News: https://doc.clickup.com/9002050041/p/h/8c90rft-524/b3111a29c4039f4
 
 ### Installation
 
