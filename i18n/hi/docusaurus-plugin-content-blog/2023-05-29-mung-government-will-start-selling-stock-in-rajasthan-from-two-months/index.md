@@ -6,6 +6,8 @@ image: https://firebasestorage.googleapis.com/v0/b/khojv3.appspot.com/o/posts%2F
 tags: [mung, government news]
 ---
 
+![](https://firebasestorage.googleapis.com/v0/b/khojv3.appspot.com/o/posts%2FvyJr3otHiwToU4j4DOUh%2FBLzFio0jHt7nE2tTM7v6?alt=media&token=c3607d40-5d51-4d79-85e3-1f75e1d0c49e)
+
 - बाजार में अभी डिमांड कम है, दिल्ली और कोलकाता लाइन के मिलर्स की लेवाली चल रही है
 - नागौर मंडी में 500 बोरी की आवक रोजाना हो रही है और मंडी में लेवाली कम है
 - मंडी में भाव 7600 रु/क्विंटल चल रहे है
