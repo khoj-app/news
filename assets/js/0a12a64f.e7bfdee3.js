@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkhoj_blog=self.webpackChunkkhoj_blog||[]).push([[422],{4544:s=>{s.exports=JSON.parse('{"label":"oilseeds","permalink":"/tags/oilseeds","allTagsPath":"/tags","count":1}')}}]);

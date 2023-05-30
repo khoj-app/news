@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkhoj_blog=self.webpackChunkkhoj_blog||[]).push([[508],{6295:s=>{s.exports=JSON.parse('{"label":"sorghum","permalink":"/hi/tags/sorghum","allTagsPath":"/hi/tags","count":1}')}}]);

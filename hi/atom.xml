@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://news.khoj.app/hi/</id>
+    <title>Khoj Blog</title>
+    <updated>2023-05-30T11:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://news.khoj.app/hi/"/>
+    <subtitle>Khoj Blog</subtitle>
+    <icon>https://news.khoj.app/hi/img/favicon.ico</icon>
+    <rights>Copyright © 2023 Khoj - Shah Nanji Nagsi</rights>
+    <entry>
+        <title type="html"><![CDATA[कपास - कीमतों में गिरावट के कारण किसान स्टॉक बेचने को तैयार नहीं है]]></title>
+        <id>https://news.khoj.app/hi/2023-05-30-cotton-farmer-unwilling-to-sell-stock-due-to-lacklustre-pricing</id>
+        <link href="https://news.khoj.app/hi/2023-05-30-cotton-farmer-unwilling-to-sell-stock-due-to-lacklustre-pricing"/>
+        <updated>2023-05-30T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[- किसान फिलहाल कपास बेचने से घबरा रहे हैं। इससे बाजार में आवक का दबाव बढ़ गया]]></summary>
+        <content type="html"><![CDATA[<ul><li>किसान फिलहाल कपास बेचने से घबरा रहे हैं। इससे बाजार में आवक का दबाव बढ़ गया</li><li>वर्तमान आवक पहले से लगभग 6 % अधिक है और मई के महीने में भाव में 1,500 रु/क्विंटल की गिरावट आयी है</li><li>घटते भाव से जब किसान संकट में हैं तो उद्योगपति किसानों से कपास बेचने की अपील कर रहे हैं</li></ul>]]></content>
+        <category label="cotton" term="cotton"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ज्वार - सौराष्ट्र में दादर की कीमतों में 200 रु/क्विंटल की बढ़ोतरी हुई है]]></title>
+        <id>https://news.khoj.app/hi/2023-05-30-sorghum-dadar-prices-rise-in-saurashtra</id>
+        <link href="https://news.khoj.app/hi/2023-05-30-sorghum-dadar-prices-rise-in-saurashtra"/>
+        <updated>2023-05-30T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[- मंडी में आज 8000 बोरी की आवक हुई, सौराष्ट्र डिलीवरी स्पॉट बिल्टी भाव 3,800~4,200 रु/क्विंटल पर बाजार स्थिर है]]></summary>
+        <content type="html"><![CDATA[<p><img loading="lazy" src="https://firebasestorage.googleapis.com/v0/b/khojv3.appspot.com/o/posts%2FwaDIO6AxangWvVd1wYxV%2FQqZ2OEMiLzJKgbIrCHyt?alt=media&amp;token=65047ec5-7c33-42ba-938a-c31941c02713" class="img_ev3q"></p><ul><li>मंडी में आज 8000 बोरी की आवक हुई, सौराष्ट्र डिलीवरी स्पॉट बिल्टी भाव 3,800~4,200 रु/क्विंटल पर बाजार स्थिर है</li><li>महाराष्ट्र की दादर ज्वार 200 रु बढ़कर सौराष्ट्र डिलीवरी 4,400~4,500 रु/क्विंटल के भाव पर व्यापार हुआ है</li><li>इस बार दादर ज्वार का उत्पादन कम और मांग ज्यादा है, जिससे बाजार 500 रु/क्विंटल से तेजी की संभावना है</li></ul>]]></content>
+        <category label="sorghum" term="sorghum"/>
+        <category label="saurashtra" term="saurashtra"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[मूंग - सरकार राजस्थान में महीने दो महीने से माल बेचना शुरू करेंगी]]></title>
+        <id>https://news.khoj.app/hi/2023-05-29-mung-government-will-start-selling-stock-in-rajasthan-from-two-months</id>
+        <link href="https://news.khoj.app/hi/2023-05-29-mung-government-will-start-selling-stock-in-rajasthan-from-two-months"/>
+        <updated>2023-05-29T11:12:00.000Z</updated>
+        <summary type="html"><![CDATA[- बाजार में अभी डिमांड कम है, दिल्ली और कोलकाता लाइन के मिलर्स की लेवाली चल रही है]]></summary>
+        <content type="html"><![CDATA[<ul><li>बाजार में अभी डिमांड कम है, दिल्ली और कोलकाता लाइन के मिलर्स की लेवाली चल रही है</li><li>नागौर मंडी में 500 बोरी की आवक रोजाना हो रही है और मंडी में लेवाली कम है</li><li>मंडी में भाव 7600 रु/क्विंटल चल रहे है</li><li>जानकारी के अनुसार चुनावी साल में सरकार मुंग दाल आयत करने की संभावना है, सरकार समर्थन मूल्य पर खिरीदी तुलाई वाला माल निकलने वाली है</li><li>इन सभी परिस्तितियों को देखते हुए आगे बाजार में 500 रु/क्विंटल की गिरावट देखि जा सकती है</li></ul>]]></content>
+        <category label="mung" term="mung"/>
+        <category label="government news" term="government news"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[तिलहन - सरकार उत्पादन बढ़ाने पर जोर दे रही है क्योंकि निर्यात अभी भी कम है]]></title>
+        <id>https://news.khoj.app/hi/2023-05-29-oilseeds-government-pushing-to-increase-production-as-exports-still-underwhelming</id>
+        <link href="https://news.khoj.app/hi/2023-05-29-oilseeds-government-pushing-to-increase-production-as-exports-still-underwhelming"/>
+        <updated>2023-05-29T11:12:00.000Z</updated>
+        <summary type="html"><![CDATA[- उत्पादन और खपत के बीच के अंतर को कम करने के लिए सरकार किसानों को तिलहन का उत्पादन बढ़ाने के लिए प्रोत्साहित कर रही है।]]></summary>
+        <content type="html"><![CDATA[<ul><li>उत्पादन और खपत के बीच के अंतर को कम करने के लिए सरकार किसानों को तिलहन का उत्पादन बढ़ाने के लिए प्रोत्साहित कर रही है।</li><li>इन प्रयासों के कुछ परिणाम भी निकले हैं और पिछले कुछ वर्षों में तिलहन के उत्पादन में सुधार हुआ है। भारत में 2022~23 में 143.7 लाख टन वनस्पति तेल का आयात होने का अनुमान है, जबकि 2021~22 में यह 140.7 लाख टन था।</li><li>यह 2016~17 में आयात किए गए 153.2 लाख टन से थोड़ा बेहतर है।</li><li>सोयाबीन और सरसों प्रमुख फसलें हैं, जो क्रमशः 35% और 32% हैं।</li></ul>]]></content>
+        <category label="oilseeds" term="oilseeds"/>
+        <category label="government news" term="government news"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[चना - आज के प्रमुख मंडियों के भाव]]></title>
+        <id>https://news.khoj.app/hi/2023-05-29-today-rates-of-major-mandis</id>
+        <link href="https://news.khoj.app/hi/2023-05-29-today-rates-of-major-mandis"/>
+        <updated>2023-05-29T10:41:00.000Z</updated>
+        <content type="html"><![CDATA[<p><img loading="lazy" src="https://firebasestorage.googleapis.com/v0/b/khojv3.appspot.com/o/posts%2FtLxgJhW25JznnCWqb1Yc%2FmULvXRstXNfc5U2W2D04?alt=media&amp;token=b15b1cb6-5001-4292-a36d-578a9180ae63" class="img_ev3q"></p>]]></content>
+        <category label="today rates" term="today rates"/>
+    </entry>
+</feed>
