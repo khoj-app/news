@@ -34,7 +34,7 @@ const config = {
   // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    locales: ['en'],
+    locales: ['en', 'hi'],
   },
 
   presets: [
@@ -43,7 +43,7 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         gtag: {
-          trackingID: 'asdsadas', // TODO: Add your google analytics tracking ID here
+          trackingID: 'G-8MZR39WB3S',
         },
         docs: false,
         blog: {
@@ -87,7 +87,12 @@ const config = {
           src: 'img/logo.png',
           /** srcDark: '', // TODO: Add your dark mode logo here */
         },
-        items: [],
+        items: [
+          {
+            type: 'localeDropdown',
+            position: 'right',
+          }
+        ],
       },
       footer: {
         style: 'dark',

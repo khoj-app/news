@@ -1,0 +1,14 @@
+{
+  "title": {
+    "message": "खोज - ताज़ा खबरें",
+    "description": "The title for the blog used in SEO"
+  },
+  "description": {
+    "message": "खोज - ताज़ा खबरें",
+    "description": "The description for the blog used in SEO"
+  },
+  "sidebar.title": {
+    "message": "ताज़ा खबरें",
+    "description": "The label for the left sidebar"
+  }
+}
