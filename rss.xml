@@ -4,11 +4,23 @@
         <title>Khoj Blog</title>
         <link>https://news.khoj.app/</link>
         <description>Khoj Blog</description>
-        <lastBuildDate>Tue, 30 May 2023 11:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 May 2023 18:23:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Copyright © 2023 Khoj - Shah Nanji Nagsi</copyright>
+        <item>
+            <title><![CDATA[Maize - New stock of UP have started arriving in Saurashtra]]></title>
+            <link>https://news.khoj.app/2023-05-30-maize-new-stock-of-up-have-started-arriving-in-saurashtra</link>
+            <guid>https://news.khoj.app/2023-05-30-maize-new-stock-of-up-have-started-arriving-in-saurashtra</guid>
+            <pubDate>Tue, 30 May 2023 18:23:00 GMT</pubDate>
+            <description><![CDATA[- Saurashtra delivery price is stable at Rs. 2,000~2,060/q]]></description>
+            <content:encoded><![CDATA[<p><img loading="lazy" src="https://firebasestorage.googleapis.com/v0/b/khojv3.appspot.com/o/posts%2FwaDIO6AxangWvVd1wYxV%2F5tLAxVefgdacU1EMW2Cx?alt=media&amp;token=c01a4c6b-633c-4cc0-b81b-17eda0196239" class="img_ev3q"></p><ul><li>Saurashtra delivery price is stable at Rs. 2,000~2,060/q </li><li>Uttar Pradesh's new stock Gujarat delivery was traded at Rs. 2,030/q</li><li>Further the market will decrease by Rs. 100/q, there is less chance of rise in maize prices</li></ul>]]></content:encoded>
+            <category>maize</category>
+            <category>saurashtra</category>
+            <category>new stock</category>
+            <category>UP</category>
+        </item>
         <item>
             <title><![CDATA[Cotton - Farmer unwilling to sell stock due to lacklustre pricing]]></title>
             <link>https://news.khoj.app/2023-05-30-cotton-farmer-unwilling-to-sell-stock-due-to-lacklustre-pricing</link>
@@ -55,18 +67,6 @@
             <pubDate>Mon, 29 May 2023 10:41:00 GMT</pubDate>
             <content:encoded><![CDATA[<p><img loading="lazy" src="https://firebasestorage.googleapis.com/v0/b/khojv3.appspot.com/o/posts%2FtLxgJhW25JznnCWqb1Yc%2FmULvXRstXNfc5U2W2D04?alt=media&amp;token=b15b1cb6-5001-4292-a36d-578a9180ae63" class="img_ev3q"></p>]]></content:encoded>
             <category>today rates</category>
-        </item>
-        <item>
-            <title><![CDATA[Maize - New stock of UP have started arriving in Saurashtra]]></title>
-            <link>https://news.khoj.app/2023-05-30-maize-new-stock-of-up-have-started-arriving-in-saurashtra</link>
-            <guid>https://news.khoj.app/2023-05-30-maize-new-stock-of-up-have-started-arriving-in-saurashtra</guid>
-            <pubDate>Thu, 25 May 2023 17:23:00 GMT</pubDate>
-            <description><![CDATA[- Saurashtra delivery price is stable at Rs. 2,000~2,060/q]]></description>
-            <content:encoded><![CDATA[<p><img loading="lazy" src="https://firebasestorage.googleapis.com/v0/b/khojv3.appspot.com/o/posts%2FwaDIO6AxangWvVd1wYxV%2F5tLAxVefgdacU1EMW2Cx?alt=media&amp;token=c01a4c6b-633c-4cc0-b81b-17eda0196239" class="img_ev3q"></p><ul><li>Saurashtra delivery price is stable at Rs. 2,000~2,060/q </li><li>Uttar Pradesh's new stock Gujarat delivery was traded at Rs. 2,030/q</li><li>Further the market will decrease by Rs. 100/q, there is less chance of rise in maize prices</li></ul>]]></content:encoded>
-            <category>maize</category>
-            <category>saurashtra</category>
-            <category>new stock</category>
-            <category>UP</category>
         </item>
     </channel>
 </rss>

@@ -4,11 +4,23 @@
         <title>Khoj Blog</title>
         <link>https://news.khoj.app/hi/</link>
         <description>Khoj Blog</description>
-        <lastBuildDate>Tue, 30 May 2023 11:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 May 2023 18:23:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>hi</language>
         <copyright>Copyright © 2023 Khoj - Shah Nanji Nagsi</copyright>
+        <item>
+            <title><![CDATA[मक्का - सौराष्ट्र में उत्तर प्रदेश का नया माल आना शुरू हो गया है]]></title>
+            <link>https://news.khoj.app/hi/2023-05-30-maize-new-stock-of-up-have-started-arriving-in-saurashtra</link>
+            <guid>https://news.khoj.app/hi/2023-05-30-maize-new-stock-of-up-have-started-arriving-in-saurashtra</guid>
+            <pubDate>Tue, 30 May 2023 18:23:00 GMT</pubDate>
+            <description><![CDATA[- सौराष्ट्र डिलीवरी 2000~2060 रु/क्विंटल पर भाव स्थिर है]]></description>
+            <content:encoded><![CDATA[<p><img loading="lazy" src="https://firebasestorage.googleapis.com/v0/b/khojv3.appspot.com/o/posts%2FwaDIO6AxangWvVd1wYxV%2F5tLAxVefgdacU1EMW2Cx?alt=media&amp;token=c01a4c6b-633c-4cc0-b81b-17eda0196239" class="img_ev3q"></p><ul><li>सौराष्ट्र डिलीवरी 2000~2060 रु/क्विंटल पर भाव स्थिर है </li><li>उत्तर प्रदेश का नया माल गुजरात डिलीवरी 2030 रु/क्विंटल का व्यापार हुआ </li><li>आगे बाजार 100 रु घटेगा, मक्का में फ़िलहाल तेज़ी की संभावना कम है</li></ul>]]></content:encoded>
+            <category>maize</category>
+            <category>saurashtra</category>
+            <category>new stock</category>
+            <category>UP</category>
+        </item>
         <item>
             <title><![CDATA[कपास - कीमतों में गिरावट के कारण किसान स्टॉक बेचने को तैयार नहीं है]]></title>
             <link>https://news.khoj.app/hi/2023-05-30-cotton-farmer-unwilling-to-sell-stock-due-to-lacklustre-pricing</link>
@@ -55,18 +67,6 @@
             <pubDate>Mon, 29 May 2023 10:41:00 GMT</pubDate>
             <content:encoded><![CDATA[<p><img loading="lazy" src="https://firebasestorage.googleapis.com/v0/b/khojv3.appspot.com/o/posts%2FtLxgJhW25JznnCWqb1Yc%2FmULvXRstXNfc5U2W2D04?alt=media&amp;token=b15b1cb6-5001-4292-a36d-578a9180ae63" class="img_ev3q"></p>]]></content:encoded>
             <category>today rates</category>
-        </item>
-        <item>
-            <title><![CDATA[मक्का - सौराष्ट्र में उत्तर प्रदेश का नया माल आना शुरू हो गया है]]></title>
-            <link>https://news.khoj.app/hi/2023-05-30-maize-new-stock-of-up-have-started-arriving-in-saurashtra</link>
-            <guid>https://news.khoj.app/hi/2023-05-30-maize-new-stock-of-up-have-started-arriving-in-saurashtra</guid>
-            <pubDate>Thu, 25 May 2023 17:23:00 GMT</pubDate>
-            <description><![CDATA[- सौराष्ट्र डिलीवरी 2000~2060 रु/क्विंटल पर भाव स्थिर है]]></description>
-            <content:encoded><![CDATA[<p><img loading="lazy" src="https://firebasestorage.googleapis.com/v0/b/khojv3.appspot.com/o/posts%2FwaDIO6AxangWvVd1wYxV%2F5tLAxVefgdacU1EMW2Cx?alt=media&amp;token=c01a4c6b-633c-4cc0-b81b-17eda0196239" class="img_ev3q"></p><ul><li>सौराष्ट्र डिलीवरी 2000~2060 रु/क्विंटल पर भाव स्थिर है </li><li>उत्तर प्रदेश का नया माल गुजरात डिलीवरी 2030 रु/क्विंटल का व्यापार हुआ </li><li>आगे बाजार 100 रु घटेगा, मक्का में फ़िलहाल तेज़ी की संभावना कम है</li></ul>]]></content:encoded>
-            <category>maize</category>
-            <category>saurashtra</category>
-            <category>new stock</category>
-            <category>UP</category>
         </item>
     </channel>
 </rss>
