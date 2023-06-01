@@ -54,14 +54,25 @@ const config = {
           feedOptions: {
             type: 'all',
             copyright: `Copyright © ${new Date().getFullYear()} Khoj - Shah Nanji Nagsi`,
-            createFeedItems: async (params) => {
-              const {blogPosts, defaultCreateFeedItems, ...rest} = params;
-              return defaultCreateFeedItems({
-                // keep only the 10 most recent blog posts in the feed
-                blogPosts: blogPosts.filter((item, index) => index < 10),
-                ...rest,
-              });
-            }
+              createFeedItems: async (params) => {
+                const {blogPosts, defaultCreateFeedItems, ...rest} = params;
+                const blogPostImages = blogPosts.map(post => {
+                   return {
+                     id: post.id,
+                     image: post.metadata.frontMatter.image,
+                   }
+                  });
+                return (await defaultCreateFeedItems({
+                  // keep only the 10 most recent blog posts in the feed
+                  blogPosts: blogPosts.filter((item, index) => index < 10),
+                  ...rest,
+                })).map(item => {
+                  return {
+                    ...item,
+                    image: blogPostImages.filter(post => item.id.indexOf(post.id) > 0)[0]?.image,
+                  }
+                });
+              }
           }
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
