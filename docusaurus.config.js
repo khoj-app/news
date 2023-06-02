@@ -62,10 +62,11 @@ const config = {
                                     image: post.metadata.frontMatter.image,
                                 }
                             });
+                            console.log(blogPostImages);
                             return (await defaultCreateFeedItems({
                                 // keep only the 10 most recent blog posts in the feed
                                 blogPosts: blogPosts
-                                    .filter(item => item.metadata.frontMatter.image !== undefined)
+                                    .filter(item => item.metadata.frontMatter.image !== undefined && item.metadata.frontMatter.image.length > 0)
                                     .filter((item, index) => index < 10),
                                 ...rest,
                             })).map(item => {
