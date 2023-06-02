@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkhoj_blog=self.webpackChunkkhoj_blog||[]).push([[6307],{378:a=>{a.exports=JSON.parse('{"label":"pinku","permalink":"/tags/pinku","allTagsPath":"/tags","count":1}')}}]);

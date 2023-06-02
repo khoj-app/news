@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkhoj_blog=self.webpackChunkkhoj_blog||[]).push([[4355],{4570:a=>{a.exports=JSON.parse('{"label":"today rates","permalink":"/tags/today-rates","allTagsPath":"/tags","count":1}')}}]);

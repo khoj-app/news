@@ -4,11 +4,25 @@
         <title>Khoj Blog</title>
         <link>https://news.khoj.app/</link>
         <description>Khoj Blog</description>
-        <lastBuildDate>Tue, 30 May 2023 18:23:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Jun 2023 11:30:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Copyright © 2023 Khoj - Shah Nanji Nagsi</copyright>
+        <item>
+            <title><![CDATA[Pigeon peas - Price increased by Rs. 200 in Latur]]></title>
+            <link>https://news.khoj.app/2023-06-02-Pigeon peas-Price-increased-by-Rs.-200-in-Latur</link>
+            <guid>https://news.khoj.app/2023-06-02-Pigeon peas-Price-increased-by-Rs.-200-in-Latur</guid>
+            <pubDate>Fri, 02 Jun 2023 11:30:00 GMT</pubDate>
+            <description><![CDATA[- Due to good demand, some 2-3 bags of Red pigeon peas were sold at 10,500/q in the market today. The rest of the stock is being sold at 10300/q]]></description>
+            <content:encoded><![CDATA[<p><img loading="lazy" src="https://firebasestorage.googleapis.com/v0/b/khojv3.appspot.com/o/posts%2FtLxgJhW25JznnCWqb1Yc%2FOruPIcVvx6fORgxwsg9v?alt=media&amp;token=5195cc64-9e95-4e72-8e0a-443e93e20d46" class="img_ev3q"></p><ul><li>Due to good demand, some 2-3 bags of Red pigeon peas were sold at 10,500/q in the market today. The rest of the stock is being sold at 10300/q</li><li>Pinku quality also increased by Rs. 200 to 10200/q</li></ul>]]></content:encoded>
+            <category>latur</category>
+            <category>pigeon peas</category>
+            <category>toor</category>
+            <category>pinku</category>
+            <category>red</category>
+            <enclosure url="https://firebasestorage.googleapis.com/v0/b/khojv3.appspot.com/o/posts%2FtLxgJhW25JznnCWqb1Yc%2FOruPIcVvx6fORgxwsg9v?alt=media&token=5195cc64-9e95-4e72-8e0a-443e93e20d46" length="0" type="image/com/o/posts%2FtLxgJhW25JznnCWqb1Yc%2FOruPIcVvx6fORgxwsg9v"/>
+        </item>
         <item>
             <title><![CDATA[Maize - New stock of UP have started arriving in Saurashtra]]></title>
             <link>https://news.khoj.app/2023-05-30-maize-new-stock-of-up-have-started-arriving-in-saurashtra</link>
