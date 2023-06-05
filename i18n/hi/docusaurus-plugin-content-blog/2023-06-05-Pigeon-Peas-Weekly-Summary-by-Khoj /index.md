@@ -2,7 +2,7 @@
 slug: 2023-06-05-Pigeon-Peas-Weekly-Summary-by-Khoj
 title: तूर - खोज द्वारा साप्ताहिक सारांश 
 date: 2023-06-05T15:07
-image: (https://firebasestorage.googleapis.com/v0/b/khojv3.appspot.com/o/posts%2FtLxgJhW25JznnCWqb1Yc%2FBI0NgY4c5a2kTTWyZ3Ah?alt=media&token=34210667-cbc0-4021-b96c-21e163c00acb)
+image: https://firebasestorage.googleapis.com/v0/b/khojv3.appspot.com/o/posts%2FtLxgJhW25JznnCWqb1Yc%2FBI0NgY4c5a2kTTWyZ3Ah?alt=media&token=34210667-cbc0-4021-b96c-21e163c00acb
 tags: [ Toor, Summary, Government notification,)
 --- 
 
