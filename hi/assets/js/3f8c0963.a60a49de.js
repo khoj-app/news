@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkhoj_blog=self.webpackChunkkhoj_blog||[]).push([[2919],{1021:e=>{e.exports=JSON.parse('{"label":"Government notification","permalink":"/hi/tags/government-notification","allTagsPath":"/hi/tags","count":1}')}}]);
