@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkkhoj_blog=self.webpackChunkkhoj_blog||[]).push([[6775],{3186:a=>{a.exports=JSON.parse('{"label":"Sangali","permalink":"/hi/tags/sangali","allTagsPath":"/hi/tags","count":1}')}}]);
