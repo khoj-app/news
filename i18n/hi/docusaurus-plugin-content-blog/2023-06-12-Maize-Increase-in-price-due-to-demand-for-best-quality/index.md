@@ -1,7 +1,7 @@
 
 ---
 slug: 2023-06-12-Maize-Increase-in-price-due-to-demand-for-best-quality
-title: मक्का-बेस्ट-क्वालिटी-में-डिमांड-से-भाव-में-बढ़ोतरी
+title: मक्का बेस्ट क्वालिटी में डिमांड से भाव में बढ़ोतरी
 date: 2023-06-12T17:46
 tags: [ Maize, Export, Sangali, Demand ]
 --- 
