@@ -1,6 +1,6 @@
 ---
 slug: 2023-06-12-Maize-Increase-in-price-due-to-demand-for-best-quality
-title: Maize-Increase-in-price-due-to-demand-for-best-quality
+title: Maize-Increase in price due to demand in best quality
 date: 2023-06-12T17:46
 tags: [ Maize, Export, Sangali, Demand ]
 --- 
