@@ -9,4 +9,4 @@ tags: [wheat, amritsar, news, lifting ]
 - Total procurement here of 7,37,447 MT of wheat out of which nearly 93% has been purchased by the government agencies. While the government agencies have procured 6,87,256 MT of wheat, the private buyers have purchased 50,191 MT.
 - the government had fixed an MSP of Rs 2,125/q, while some agencies had paid Rs 2,130/q.
 - He said that a maximum increase of 20% in arrival was witnessed at Bhagatawala where a total of 83,976 MT of crop was procured.
-- Source: The Tribune (June 14, 2023)
+- Source - The Tribune (June 14, 2023)
