@@ -1,5 +1,5 @@
 ---
-slug: 2023-06-14-Wheat-Lifting-in-Amritsar-registers-increase-of-16%
+slug: 2023-06-14-Wheat-Lifting-in-Amritsar-registers-increase-of-16-%
 title: गेहूं - अमृतसर में लिफ्टिंग में 16 फीसदी की बढ़ोतरी
 date: 2023-06-14T18:18
 tags: [wheat, amritsar, news, lifting ]
