@@ -1,5 +1,5 @@
 ---
-slug: 2023-06-13-Wheat-Due-to-the-imposition-of-stock-limit-,-buying-became-weak-today
+slug: 2023-06-13-Wheat-Due-to-the-imposition-of-stock-limit-buying-became-weak-today
 title: गेहूं - स्टॉक लिमिट लगने के कारण आज लेवाली पड़ी कमजोर 
 date: 2023-06-13T17:48
 tags: [ wheat, stock limit ]
