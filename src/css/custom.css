@@ -65,3 +65,11 @@
     --ifm-navbar-link-color: #0dc6d3;
     color: #0dc6d3 !important;
 }
+
+.navbar__item {
+    display: inline-block !important;
+}
+
+.navbar-sidebar__back {
+    display: none !important;
+}
