@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkhoj_blog=self.webpackChunkkhoj_blog||[]).push([[5125],{114:e=>{e.exports=JSON.parse('{"permalink":"/hi/tags/jeera","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

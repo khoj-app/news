@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkhoj_blog=self.webpackChunkkhoj_blog||[]).push([[5434],{7037:e=>{e.exports=JSON.parse('{"label":"Jeera","permalink":"/hi/tags/jeera","allTagsPath":"/hi/tags","count":1}')}}]);

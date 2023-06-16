@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkhoj_blog=self.webpackChunkkhoj_blog||[]).push([[6531],{6720:a=>{a.exports=JSON.parse('{"label":"Export","permalink":"/hi/tags/export","allTagsPath":"/hi/tags","count":2}')}}]);

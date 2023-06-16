@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkhoj_blog=self.webpackChunkkhoj_blog||[]).push([[5719],{1990:a=>{a.exports=JSON.parse('{"label":"Cumin","permalink":"/tags/cumin","allTagsPath":"/tags","count":1}')}}]);
