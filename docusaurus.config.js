@@ -43,7 +43,7 @@ const config = {
             /** @type {import('@docusaurus/preset-classic').Options} */
             ({
                 gtag: {
-                    trackingID: 'G-8MZR39WB3S',
+                    trackingID: 'G-PJQWH3EXTC',
                 },
                 docs: false,
                 blog: {
