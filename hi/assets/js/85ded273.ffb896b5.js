@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkhoj_blog=self.webpackChunkkhoj_blog||[]).push([[8390],{5111:a=>{a.exports=JSON.parse('{"label":"mustard","permalink":"/hi/tags/mustard","allTagsPath":"/hi/tags","count":1}')}}]);

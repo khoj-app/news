@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkhoj_blog=self.webpackChunkkhoj_blog||[]).push([[3307],{5231:a=>{a.exports=JSON.parse('{"label":"nafed","permalink":"/tags/nafed","allTagsPath":"/tags","count":1}')}}]);

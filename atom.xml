@@ -2,12 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.khoj.app/</id>
     <title>Khoj Blog</title>
-    <updated>2023-06-20T17:32:00.000Z</updated>
+    <updated>2023-06-21T13:36:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://news.khoj.app/"/>
     <subtitle>Khoj Blog</subtitle>
     <icon>https://news.khoj.app/img/favicon.ico</icon>
     <rights>Copyright © 2023 Khoj - Shah Nanji Nagsi</rights>
+    <entry>
+        <title type="html"><![CDATA[Mustard-Nafed has so far procured 8,46,045 metric tonnes]]></title>
+        <id>https://news.khoj.app/2023-06-21-Mustard-Nafed-has-so-far-procured-8,46,045-metric-tonnes</id>
+        <link href="https://news.khoj.app/2023-06-21-Mustard-Nafed-has-so-far-procured-8,46,045-metric-tonnes"/>
+        <updated>2023-06-21T13:36:00.000Z</updated>
+        <summary type="html"><![CDATA[![]https://firebasestorage.googleapis.com/v0/b/khojv3.appspot.com/o/posts%2FtLxgJhW25JznnCWqb1Yc%2FnDQInOGVMsBCJouxKdSN?alt=media&token=0cf64551-80cc-4324-bc7f-3b08fdaffd86]]></summary>
+        <content type="html"><![CDATA[<p>![]<a href="https://firebasestorage.googleapis.com/v0/b/khojv3.appspot.com/o/posts%2FtLxgJhW25JznnCWqb1Yc%2FnDQInOGVMsBCJouxKdSN?alt=media&amp;token=0cf64551-80cc-4324-bc7f-3b08fdaffd86" target="_blank" rel="noopener noreferrer">https://firebasestorage.googleapis.com/v0/b/khojv3.appspot.com/o/posts%2FtLxgJhW25JznnCWqb1Yc%2FnDQInOGVMsBCJouxKdSN?alt=media&amp;token=0cf64551-80cc-4324-bc7f-3b08fdaffd86</a></p>]]></content>
+        <category label="mustard" term="mustard"/>
+        <category label="nafed" term="nafed"/>
+        <category label="procurement" term="procurement"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pigeon Peas - Weekly Summary by Khoj]]></title>
         <id>https://news.khoj.app/2023-06-05-Pigeon-Peas-Weekly-Summary-by-Khoj</id>
