@@ -7,4 +7,4 @@ tags: [ mustard, nafed, procurement ]
 
 ---
 
-![]https://firebasestorage.googleapis.com/v0/b/khojv3.appspot.com/o/posts%2FtLxgJhW25JznnCWqb1Yc%2FnDQInOGVMsBCJouxKdSN?alt=media&token=0cf64551-80cc-4324-bc7f-3b08fdaffd86
+![](https://firebasestorage.googleapis.com/v0/b/khojv3.appspot.com/o/posts%2FtLxgJhW25JznnCWqb1Yc%2FnDQInOGVMsBCJouxKdSN?alt=media&token=0cf64551-80cc-4324-bc7f-3b08fdaffd86)
