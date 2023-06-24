@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkhoj_blog=self.webpackChunkkhoj_blog||[]).push([[8213],{9622:e=>{e.exports=JSON.parse('{"label":"pigeon peas","permalink":"/hi/tags/pigeon-peas","allTagsPath":"/hi/tags","count":2}')}}]);

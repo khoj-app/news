@@ -2,12 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.khoj.app/</id>
     <title>Khoj Blog</title>
-    <updated>2023-06-21T13:36:00.000Z</updated>
+    <updated>2023-06-24T18:28:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://news.khoj.app/"/>
     <subtitle>Khoj Blog</subtitle>
     <icon>https://news.khoj.app/img/favicon.ico</icon>
     <rights>Copyright © 2023 Khoj - Shah Nanji Nagsi</rights>
+    <entry>
+        <title type="html"><![CDATA[Pigeon Peas- Weekly Summary by Khoj]]></title>
+        <id>https://news.khoj.app/2023-06-24-Pigeon-Peas-Weekly-Summary-by-Khoj</id>
+        <link href="https://news.khoj.app/2023-06-24-Pigeon-Peas-Weekly-Summary-by-Khoj"/>
+        <updated>2023-06-24T18:28:00.000Z</updated>
+        <summary type="html"><![CDATA[![] (https://firebasestorage.googleapis.com/v0/b/khojv3.appspot.com/o/posts%2FtLxgJhW25JznnCWqb1Yc%2FdBUDZdMzssIPNO4mAk4v?alt=media&token=5329661b-c0f2-4650-a6c4-0b20ef7833b7)]]></summary>
+        <content type="html"><![CDATA[<p>![] (<a href="https://firebasestorage.googleapis.com/v0/b/khojv3.appspot.com/o/posts%2FtLxgJhW25JznnCWqb1Yc%2FdBUDZdMzssIPNO4mAk4v?alt=media&amp;token=5329661b-c0f2-4650-a6c4-0b20ef7833b7" target="_blank" rel="noopener noreferrer">https://firebasestorage.googleapis.com/v0/b/khojv3.appspot.com/o/posts%2FtLxgJhW25JznnCWqb1Yc%2FdBUDZdMzssIPNO4mAk4v?alt=media&amp;token=5329661b-c0f2-4650-a6c4-0b20ef7833b7</a>)</p><ul><li>This week the prices declined by Rs. 200~300/q. The buying in the mandis was very less. Selling of pigeon peas split is also weak due to a lack of demand in pulses.</li><li>The arrival in the mandis is very less and now the remaining stock is of low quality.</li><li>With this, Lemon ready in Chennai opened from Rs.10,000/q on Monday and fell to Rs.9800/q by Saturday.</li><li>Gajri was trading at $1,000 for September-October on Monday, but fell to $950 by Saturday due to weak demand.</li><li>According to the traders, everyone is trying to adjust their stock to abide to the stock limit leading to extremely weak buying, but improvement might be seen in a couple of days.</li><li>Monsoon is delayed by 20 days in Karnataka. Although it rained a bit yesterday. Sowing will now start in Gulbarga, Bidar, Raichur, Bijapur, Feram, and Yadgir regions.</li><li>Due to delay in rains, farmers have sown cotton in the Deglur region. There is a possibility of delay in the pigeon peas crop this time.</li><li>For a few days, there will be slight softening in the market, however, in the first week of July, the price is expected to increase due to good demand.</li></ul>]]></content>
+        <category label="pigeon peas" term="pigeon peas"/>
+        <category label="summary" term="summary"/>
+        <category label="khoj" term="khoj"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mustard-Nafed has so far procured 8,46,045 metric tonnes]]></title>
         <id>https://news.khoj.app/2023-06-21-Mustard-Nafed-has-so-far-procured-8,46,045-metric-tonnes</id>
