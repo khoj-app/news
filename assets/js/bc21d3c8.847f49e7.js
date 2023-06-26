@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkhoj_blog=self.webpackChunkkhoj_blog||[]).push([[2767],{6993:a=>{a.exports=JSON.parse('{"label":"groundnut","permalink":"/tags/groundnut","allTagsPath":"/tags","count":1}')}}]);
