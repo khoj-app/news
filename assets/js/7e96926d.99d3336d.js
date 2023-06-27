@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkkhoj_blog=self.webpackChunkkhoj_blog||[]).push([[4489],{4614:o=>{o.exports=JSON.parse('{"permalink":"/tags/toor","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
