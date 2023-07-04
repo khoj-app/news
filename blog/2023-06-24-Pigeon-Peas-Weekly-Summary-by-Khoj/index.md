@@ -7,7 +7,7 @@ tags: [ pigeon peas, summary, khoj ]
 
 ---
 
-![] (https://firebasestorage.googleapis.com/v0/b/khojv3.appspot.com/o/posts%2FtLxgJhW25JznnCWqb1Yc%2FdBUDZdMzssIPNO4mAk4v?alt=media&token=5329661b-c0f2-4650-a6c4-0b20ef7833b7)
+![](https://firebasestorage.googleapis.com/v0/b/khojv3.appspot.com/o/posts%2FtLxgJhW25JznnCWqb1Yc%2FdBUDZdMzssIPNO4mAk4v?alt=media&token=5329661b-c0f2-4650-a6c4-0b20ef7833b7)
 - This week the prices declined by Rs. 200~300/q. The buying in the mandis was very less. Selling of pigeon peas split is also weak due to a lack of demand in pulses.
 - The arrival in the mandis is very less and now the remaining stock is of low quality.
 - With this, Lemon ready in Chennai opened from Rs.10,000/q on Monday and fell to Rs.9800/q by Saturday.
