@@ -6,7 +6,6 @@ image: https://firebasestorage.googleapis.com/v0/b/khojv3.appspot.com/o/posts%2F
 tags: [ pigeon peas, summary, khoj ]
 
 ---
-
 ![](https://firebasestorage.googleapis.com/v0/b/khojv3.appspot.com/o/posts%2FtLxgJhW25JznnCWqb1Yc%2FdBUDZdMzssIPNO4mAk4v?alt=media&token=5329661b-c0f2-4650-a6c4-0b20ef7833b7)
 - This week the prices declined by Rs. 200~300/q. The buying in the mandis was very less. Selling of pigeon peas split is also weak due to a lack of demand in pulses.
 - The arrival in the mandis is very less and now the remaining stock is of low quality.
