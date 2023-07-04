@@ -50,7 +50,7 @@ const config = {
                     routeBasePath: '/',
                     showReadingTime: false,
                     blogSidebarTitle: 'Recent News',
-                    blogSidebarCount: 8,
+                    blogSidebarCount: 50,
                     feedOptions: {
                         type: 'all',
                         copyright: `Copyright © ${new Date().getFullYear()} Khoj - Shah Nanji Nagsi`,
