@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkhoj_blog=self.webpackChunkkhoj_blog||[]).push([[2756],{5378:e=>{e.exports=JSON.parse('{"label":"meteorology","permalink":"/tags/meteorology","allTagsPath":"/tags","count":1}')}}]);
