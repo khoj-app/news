@@ -8,3 +8,4 @@ tags: [ weather, meteorology, rain ]
 - Isolated heavy rainfall is likely over Himachal Pradesh, Uttarakhand, East Uttar Pradesh, Jharkhand, and Odisha during the next 2 days.
 - Subdued rainfall activity likely over the rest parts of the country during the next one week
 - Source IMD (August 24, 2023)
+
