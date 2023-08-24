@@ -1,7 +1,7 @@
 ---
 slug: 2023-08-24-Weather-Report 
 title: Weather Report 
-date: 2023-08-24-T15:41
+date: 2023-08-24T15:41
 tags: [ weather, meteorology, rain ]
 --- 
 - Heavy to very heavy rainfall spell likely to continue over northeast, SubHimalayan West Bengal & Sikkim and Bihar during next 3 days 
