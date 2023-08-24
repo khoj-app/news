@@ -1,5 +1,5 @@
 ---
-slug: 2023-24-08-Weather-Report 
+slug: 2023-08-24-Weather-Report 
 title: Weather Report 
 date: 2023-08-24-T15:41
 tags: [ weather, meteorology, rain ]
