@@ -2,12 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.khoj.app/</id>
     <title>Khoj Blog</title>
-    <updated>2023-08-24T16:15:00.000Z</updated>
+    <updated>2023-08-31T17:05:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://news.khoj.app/"/>
     <subtitle>Khoj Blog</subtitle>
     <icon>https://news.khoj.app/img/favicon.ico</icon>
     <rights>Copyright © 2023 Khoj - Shah Nanji Nagsi</rights>
+    <entry>
+        <title type="html"><![CDATA[Chickpeas - Delhi price hike due to good demand]]></title>
+        <id>https://news.khoj.app/2023-08-31-Chickpeas-Delhi-price-hike-due-to-good-demand</id>
+        <link href="https://news.khoj.app/2023-08-31-Chickpeas-Delhi-price-hike-due-to-good-demand"/>
+        <updated>2023-08-31T17:05:00.000Z</updated>
+        <summary type="html"><![CDATA[- Today the price of chickpeas in Delhi has reached Rs. 6650~6700/q]]></summary>
+        <content type="html"><![CDATA[<ul><li>Today the price of chickpeas in Delhi has reached Rs. 6650~6700/q</li><li>Millers buying is strong</li><li>Due to the upcoming festival, the demand is also very good in Chanadaal and Besan </li><li>Delhi chickpeas price is expected to reach Rs. 7000/q in the coming days</li></ul>]]></content>
+        <category label="chana" term="chana"/>
+        <category label="Delhi" term="Delhi"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Govt to release toor dal from buffer till imported stocks arrive]]></title>
         <id>https://news.khoj.app/2023-06-27-Govt-to-release-toor-dal-from-buffer-till-imported-stocks-arrive</id>

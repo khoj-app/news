@@ -5,6 +5,19 @@
     "description": "Khoj Blog",
     "items": [
         {
+            "id": "https://news.khoj.app/2023-08-31-Chickpeas-Delhi-price-hike-due-to-good-demand",
+            "content_html": "<ul><li>Today the price of chickpeas in Delhi has reached Rs. 6650~6700/q</li><li>Millers buying is strong</li><li>Due to the upcoming festival, the demand is also very good in Chanadaal and Besan </li><li>Delhi chickpeas price is expected to reach Rs. 7000/q in the coming days</li></ul>",
+            "url": "https://news.khoj.app/2023-08-31-Chickpeas-Delhi-price-hike-due-to-good-demand",
+            "title": "Chickpeas - Delhi price hike due to good demand",
+            "summary": "- Today the price of chickpeas in Delhi has reached Rs. 6650~6700/q",
+            "image": "https://firebasestorage.googleapis.com/v0/b/khojv3.appspot.com/o/posts%2FzeChqGIJ2iH9nRxUWho3%2FyEjOOFNRkfnqfNMv5nKd?alt=media&token=2ba138af-c8ee-4dda-98f2-0e1db23b7c2e",
+            "date_modified": "2023-08-31T17:05:00.000Z",
+            "tags": [
+                "chana",
+                "Delhi"
+            ]
+        },
+        {
             "id": "https://news.khoj.app/2023-06-27-Govt-to-release-toor-dal-from-buffer-till-imported-stocks-arrive",
             "content_html": "<p><img loading=\"lazy\" src=\"https://firebasestorage.googleapis.com/v0/b/khojv3.appspot.com/o/posts%2FtLxgJhW25JznnCWqb1Yc%2FGKDQnPeZoin3e5vbxXUR?alt=media&amp;token=f221f587-f453-4b74-9943-cc19ff0c4269\" class=\"img_ev3q\"></p>",
             "url": "https://news.khoj.app/2023-06-27-Govt-to-release-toor-dal-from-buffer-till-imported-stocks-arrive",
