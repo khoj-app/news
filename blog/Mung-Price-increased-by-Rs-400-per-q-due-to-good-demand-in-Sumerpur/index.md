@@ -1,5 +1,5 @@
 ---
-slug: 2023-09-04-Mung-Price-increased-by-Rs.-400-per-q-due-to-good-demand-in-Sumerpur
+slug: 2023-09-04-Mung-Price-increased-by-Rs-400-per-q-due-to-good-demand-in-Sumerpur
 title: Mung - Price increased by Rs 400 per quintal due to good demand in Sumerpur
 date: 2023-09-04T11:45
 tags: [ mung, rajasthan ]
