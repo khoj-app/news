@@ -2,12 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.khoj.app/</id>
     <title>Khoj Blog</title>
-    <updated>2023-08-31T17:05:00.000Z</updated>
+    <updated>2023-09-04T11:45:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://news.khoj.app/"/>
     <subtitle>Khoj Blog</subtitle>
     <icon>https://news.khoj.app/img/favicon.ico</icon>
     <rights>Copyright © 2023 Khoj - Shah Nanji Nagsi</rights>
+    <entry>
+        <title type="html"><![CDATA[Mung - Price increased by Rs. 400/q due to good demand in Sumerpur]]></title>
+        <id>https://news.khoj.app/2023-09-04-Mung-Price-increased-by-Rs.-400-per-q-due-to-good-demand-in-Sumerpur</id>
+        <link href="https://news.khoj.app/2023-09-04-Mung-Price-increased-by-Rs.-400-per-q-due-to-good-demand-in-Sumerpur"/>
+        <updated>2023-09-04T11:45:00.000Z</updated>
+        <summary type="html"><![CDATA[- With the arrival of 700~800 bags, new mung traded at Rs. 8500~9900/q in the market today.]]></summary>
+        <content type="html"><![CDATA[<ul><li>With the arrival of 700~800 bags, new mung traded at Rs. 8500~9900/q in the market today.</li><li>Buying is strong due to good quality</li></ul>]]></content>
+        <category label="maize" term="maize"/>
+        <category label="saurashtra" term="saurashtra"/>
+        <category label="new stock" term="new stock"/>
+        <category label="UP" term="UP"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chickpeas - Delhi price hike due to good demand]]></title>
         <id>https://news.khoj.app/2023-08-31-Chickpeas-Delhi-price-hike-due-to-good-demand</id>
@@ -105,13 +117,5 @@
         <content type="html"><![CDATA[<p><img loading="lazy" src="https://firebasestorage.googleapis.com/v0/b/khojv3.appspot.com/o/posts%2FvyJr3otHiwToU4j4DOUh%2FBLzFio0jHt7nE2tTM7v6?alt=media&amp;token=c3607d40-5d51-4d79-85e3-1f75e1d0c49e" class="img_ev3q"></p><ul><li>The demand is low in the market, the millers of Delhi and Kolkata line are buying</li><li>500 bags are arriving daily in Nagaur market and the buying in the market is less</li><li>The price in the market is running at Rs. 7,600/q</li><li>According to the information, there is a possibility of importing mung daal in the election year, the government is going to release the weighing stock purchased at the support price.</li><li>Looking at all these circumstances, a fall of Rs. 500/q can be seen in the market.</li></ul>]]></content>
         <category label="mung" term="mung"/>
         <category label="government news" term="government news"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gram - Today's rates of major mandis]]></title>
-        <id>https://news.khoj.app/2023-05-29-today-rates-of-major-mandis</id>
-        <link href="https://news.khoj.app/2023-05-29-today-rates-of-major-mandis"/>
-        <updated>2023-05-29T10:41:00.000Z</updated>
-        <content type="html"><![CDATA[<p><img loading="lazy" src="https://firebasestorage.googleapis.com/v0/b/khojv3.appspot.com/o/posts%2FtLxgJhW25JznnCWqb1Yc%2FmULvXRstXNfc5U2W2D04?alt=media&amp;token=b15b1cb6-5001-4292-a36d-578a9180ae63" class="img_ev3q"></p>]]></content>
-        <category label="today rates" term="today rates"/>
     </entry>
 </feed>

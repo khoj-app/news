@@ -2,12 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.khoj.app/hi/</id>
     <title>Khoj Blog</title>
-    <updated>2023-08-31T17:05:00.000Z</updated>
+    <updated>2023-09-04T11:45:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://news.khoj.app/hi/"/>
     <subtitle>Khoj Blog</subtitle>
     <icon>https://news.khoj.app/hi/img/favicon.ico</icon>
     <rights>Copyright © 2023 Khoj - Shah Nanji Nagsi</rights>
+    <entry>
+        <title type="html"><![CDATA[Mung - Price increased by Rs. 400/q due to good demand in Sumerpur]]></title>
+        <id>https://news.khoj.app/hi/2023-09-04-Mung-Price-increased-by-Rs.-400-per-q-due-to-good-demand-in-Sumerpur</id>
+        <link href="https://news.khoj.app/hi/2023-09-04-Mung-Price-increased-by-Rs.-400-per-q-due-to-good-demand-in-Sumerpur"/>
+        <updated>2023-09-04T11:45:00.000Z</updated>
+        <summary type="html"><![CDATA[- With the arrival of 700~800 bags, new mung traded at Rs. 8500~9900/q in the market today.]]></summary>
+        <content type="html"><![CDATA[<ul><li>With the arrival of 700~800 bags, new mung traded at Rs. 8500~9900/q in the market today.</li><li>Buying is strong due to good quality</li></ul>]]></content>
+        <category label="maize" term="maize"/>
+        <category label="saurashtra" term="saurashtra"/>
+        <category label="new stock" term="new stock"/>
+        <category label="UP" term="UP"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chickpeas - Delhi price hike due to good demand]]></title>
         <id>https://news.khoj.app/hi/2023-08-31-Chickpeas-Delhi-price-hike-due-to-good-demand</id>
@@ -107,13 +119,5 @@
         <content type="html"><![CDATA[<p><img loading="lazy" src="https://firebasestorage.googleapis.com/v0/b/khojv3.appspot.com/o/posts%2FvyJr3otHiwToU4j4DOUh%2FBLzFio0jHt7nE2tTM7v6?alt=media&amp;token=c3607d40-5d51-4d79-85e3-1f75e1d0c49e" class="img_ev3q"></p><ul><li>बाजार में अभी डिमांड कम है, दिल्ली और कोलकाता लाइन के मिलर्स की लेवाली चल रही है</li><li>नागौर मंडी में 500 बोरी की आवक रोजाना हो रही है और मंडी में लेवाली कम है</li><li>मंडी में भाव 7600 रु/क्विंटल चल रहे है</li><li>जानकारी के अनुसार चुनावी साल में सरकार मुंग दाल आयत करने की संभावना है, सरकार समर्थन मूल्य पर खिरीदी तुलाई वाला माल निकलने वाली है</li><li>इन सभी परिस्तितियों को देखते हुए आगे बाजार में 500 रु/क्विंटल की गिरावट देखि जा सकती है</li></ul>]]></content>
         <category label="mung" term="mung"/>
         <category label="government news" term="government news"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[चना - आज के प्रमुख मंडियों के भाव]]></title>
-        <id>https://news.khoj.app/hi/2023-05-29-today-rates-of-major-mandis</id>
-        <link href="https://news.khoj.app/hi/2023-05-29-today-rates-of-major-mandis"/>
-        <updated>2023-05-29T10:41:00.000Z</updated>
-        <content type="html"><![CDATA[<p><img loading="lazy" src="https://firebasestorage.googleapis.com/v0/b/khojv3.appspot.com/o/posts%2FtLxgJhW25JznnCWqb1Yc%2FmULvXRstXNfc5U2W2D04?alt=media&amp;token=b15b1cb6-5001-4292-a36d-578a9180ae63" class="img_ev3q"></p>]]></content>
-        <category label="today rates" term="today rates"/>
     </entry>
 </feed>

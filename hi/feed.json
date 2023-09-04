@@ -5,6 +5,21 @@
     "description": "Khoj Blog",
     "items": [
         {
+            "id": "https://news.khoj.app/hi/2023-09-04-Mung-Price-increased-by-Rs.-400-per-q-due-to-good-demand-in-Sumerpur",
+            "content_html": "<ul><li>With the arrival of 700~800 bags, new mung traded at Rs. 8500~9900/q in the market today.</li><li>Buying is strong due to good quality</li></ul>",
+            "url": "https://news.khoj.app/hi/2023-09-04-Mung-Price-increased-by-Rs.-400-per-q-due-to-good-demand-in-Sumerpur",
+            "title": "Mung - Price increased by Rs. 400/q due to good demand in Sumerpur",
+            "summary": "- With the arrival of 700~800 bags, new mung traded at Rs. 8500~9900/q in the market today.",
+            "image": "https://firebasestorage.googleapis.com/v0/b/khojv3.appspot.com/o/posts%2FwaDIO6AxangWvVd1wYxV%2F5tLAxVefgdacU1EMW2Cx?alt=media&token=c01a4c6b-633c-4cc0-b81b-17eda0196239",
+            "date_modified": "2023-09-04T11:45:00.000Z",
+            "tags": [
+                "maize",
+                "saurashtra",
+                "new stock",
+                "UP"
+            ]
+        },
+        {
             "id": "https://news.khoj.app/hi/2023-08-31-Chickpeas-Delhi-price-hike-due-to-good-demand",
             "content_html": "<ul><li>Today the price of chickpeas in Delhi has reached Rs. 6650~6700/q</li><li>Millers buying is strong</li><li>Due to the upcoming festival, the demand is also very good in Chanadaal and Besan </li><li>Delhi chickpeas price is expected to reach Rs. 7000/q in the coming days</li></ul>",
             "url": "https://news.khoj.app/hi/2023-08-31-Chickpeas-Delhi-price-hike-due-to-good-demand",
@@ -128,17 +143,6 @@
             "tags": [
                 "mung",
                 "government news"
-            ]
-        },
-        {
-            "id": "https://news.khoj.app/hi/2023-05-29-today-rates-of-major-mandis",
-            "content_html": "<p><img loading=\"lazy\" src=\"https://firebasestorage.googleapis.com/v0/b/khojv3.appspot.com/o/posts%2FtLxgJhW25JznnCWqb1Yc%2FmULvXRstXNfc5U2W2D04?alt=media&amp;token=b15b1cb6-5001-4292-a36d-578a9180ae63\" class=\"img_ev3q\"></p>",
-            "url": "https://news.khoj.app/hi/2023-05-29-today-rates-of-major-mandis",
-            "title": "चना - आज के प्रमुख मंडियों के भाव",
-            "image": "https://firebasestorage.googleapis.com/v0/b/khojv3.appspot.com/o/posts%2FtLxgJhW25JznnCWqb1Yc%2FmULvXRstXNfc5U2W2D04?alt=media&token=b15b1cb6-5001-4292-a36d-578a9180ae63",
-            "date_modified": "2023-05-29T10:41:00.000Z",
-            "tags": [
-                "today rates"
             ]
         }
     ]
