@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkhoj_blog=self.webpackChunkkhoj_blog||[]).push([[3988],{2598:a=>{a.exports=JSON.parse('{"label":"Mozambique","permalink":"/hi/tags/mozambique","allTagsPath":"/hi/tags","count":1}')}}]);
